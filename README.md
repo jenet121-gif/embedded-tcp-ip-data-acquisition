@@ -1,4 +1,3 @@
-# embedded-tcp-ip-data-acquisition
 # Embedded TCP/IP Data Acquisition System
 
 ## Overview
